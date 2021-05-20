@@ -1,5 +1,7 @@
 # docker-knife4j-desktop
 knife4j桌面独立部署版
+相关文件地址
+[github](https://github.com/hjl2626/docker-knife4j-desktop)
 
 ## 内部挂载目录
 
