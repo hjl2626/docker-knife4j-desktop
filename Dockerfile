@@ -11,7 +11,7 @@ RUN mkdir -p /data
 
 ADD ./knife4j.tar.gz /data
 
-RUN apk add --no-cache bash curl telnet
+RUN apk add --no-cache bash curl
 
 
 WORKDIR /data/knife4j/bin
